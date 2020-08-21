@@ -1,1 +1,0 @@
-# blue-screen-of-death
